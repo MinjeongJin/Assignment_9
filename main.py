@@ -1,3 +1,4 @@
+# Worked in collaboration with MinjeongJin
 from typing import List
 
 def path_to_file_list(path: str) -> List[str]:
